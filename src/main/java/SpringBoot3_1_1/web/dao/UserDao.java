@@ -1,7 +1,6 @@
 package SpringBoot3_1_1.web.dao;
 
 import SpringBoot3_1_1.web.models.User;
-import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
 
